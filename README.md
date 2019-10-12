@@ -48,6 +48,8 @@
 # exemplos
 
 - Leia um valor qualquer da porta serial COM7
+
+![](gif_sensor.gif)
 ```js
 let serial;
 let sensor;
