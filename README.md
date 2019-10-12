@@ -5,14 +5,14 @@
 ### Java Script 
 
 <details>
-<summary>Veja o conteúdo</summary>
+<summary>P5.js</summary>
 
 * [`conexão com arduino`](#conexaoArduino)
 
 
 </details>
 
-### variável
+# conexaoArduino
 
 
 - Crie uma variável do tipo inteiro chamada `n` 
