@@ -19,10 +19,9 @@
 
  
 <details>
-<summary>P5.js e o Arduino</summary>
+<summary>ESP8266 e Msql</summary>
  
 * [`introdução`](#introdução)
-* [`serialEvents`](#serialEvents)
 * [`exemplos`](#exemplos)
 
 
