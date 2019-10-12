@@ -45,7 +45,7 @@
 - você pode rodar seu scketch aqui : https://editor.p5js.org/
 
 # funções 
-> chame as funções para responder os eventos:
+> chame as funções para responder os eventos
 
 - list: retorna a lista de portas.       
 - connected: conecta um websocket pela porta serial
