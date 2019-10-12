@@ -47,12 +47,12 @@
 # funções 
 > chame as funções para responder os eventos:
 
-- list – retorna a lista de portas.       
-- connected – conecta um websocket pela porta serial
-- open – abre uma porta serial
-- close – fecha uma porta serial
-- data – dados que chegam na porta serial
-- error – algum erro ocorreu.
+- list: retorna a lista de portas.       
+- connected: conecta um websocket pela porta serial
+- open: abre uma porta serial
+- close: fecha uma porta serial
+- data: dados que chegam na porta serial
+- error: algum erro ocorreu.
 
 ```js
 > construção de funções
