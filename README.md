@@ -47,8 +47,9 @@
 
 # exemplos
 
-- Leia um valor qualquer da porta serial COM7
+
 > link código: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/conexao_serial_arduino
+- propósito: Leia um valor qualquer da porta serial COM7
 
 ![](gif_sensor.gif)
 
