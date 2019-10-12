@@ -18,24 +18,12 @@
 <details>
 <summary>p5.js e Arduino</summary>
  
-* [`introdução`](#introdução p5.js e arduino)
-* [`funções`](#funções p5.serialport)
-* [`aplicações`](#aplicações p5.js e arduino)
-
-
-</details>
-
- 
-<details>
-<summary>ESP8266 e MySql</summary>
- 
 * [`introdução`](#introdução)
-* [`exemplos`](#exemplos)
+* [`funções`](#funções)
+* [`aplicações`](#aplicações)
 
 
-</details>
-
-### 📜introdução p5.js e arduino
+### 📜introdução
 > antes de tudo...
 
 - baixe : https://github.com/p5-serial/p5.serialcontrol/releases
@@ -46,7 +34,7 @@
 
 <br>[⬆ volte ao topo](#conteúdo)
 
-### 🎛️funções p5.serialport
+### 🎛️funçõe
 > chame as funções para responder os eventos
 
 - list: retorna a lista de portas.       
@@ -104,7 +92,7 @@ function serialArduino() {
 <br>[⬆ volte ao topo](#conteúdo)
 
 
-###  🔧aplicações p5.js e arduino
+###  🔧aplicaçõe
  
 > propósito: ler a porta serial   
 > link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/conexao_serial_arduino
