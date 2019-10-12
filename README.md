@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary>Potenciometro e webBrowser com p5.js e Arduino</summary>
+<summary>pootenciometro webBrowser com p5.js e Arduino</summary>
  
 * [`app_arduino_potenciometro_js`](#app_arduino_potenciometro_js)
 
@@ -173,8 +173,11 @@ void loop() {
 
 # app_arduino_potenciometro_js
 > propósito: ler valores do potenciomentro pela porta serial e interagir com o webBrowser  
+
 > link da app: 
+
 > Algorítimo JavaScript
+
 > Algorítimo Arduino
 ```c
 #define potenciometro A0
