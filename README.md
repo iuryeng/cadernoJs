@@ -2,6 +2,7 @@
 # 📚Caderno de Estudos de Internet das Coisas 
 
 > Este documento reúne algorítimos e aplicações de internet das coisas
+>Autor: Iury Coelho
 
 
 ### Conteúdo
