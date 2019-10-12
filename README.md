@@ -1,9 +1,12 @@
 
 ## Caderno de Estudos de Internet das Coisas
 
-### Conectando a porta serial com aplicações javascript com P5.js e o Arduino
+> Autor : Iury Coelho
 
-### Tutorial
+- Este documento reúne algorítimos e aplicações de internet das coisas
+
+
+### Conectando a porta serial com aplicações javascript com P5.js e o Arduino
 
 <details>
 <summary>P5.js</summary>
