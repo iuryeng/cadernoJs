@@ -35,6 +35,15 @@
 
 </details>
 
+# introdução
+> antes de tudo...
+
+- baixe : https://github.com/p5-serial/p5.serialcontrol/releases
+- esse app concede a comunicação com as portas seriais disponíveis.
+- baixe a biblioteca p5.js: 
+- escreva no header no arquivo index.html: <script src="p5.serialport.js"></script>
+- você pode rodar seu scketch aqui : https://editor.p5js.org/
+
 
 # exemplos
 
