@@ -26,7 +26,7 @@
 </details>
  
 <details>
-<summary>botão interativo com p5.js e Arduino</summary>
+<summary>escrevendo na serial com botão interativo p5.js e Arduino</summary>
  
 * [`app_botao_arduino`](#)
 
