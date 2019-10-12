@@ -24,6 +24,16 @@
 * [`app_arduino_serial`](#app_arduino_serial)
 
 </details>
+
+<details>
+<summary>Potenciometro e webBrowser com p5.js e Arduino</summary>
+ 
+* [`app_arduino_potenciometro_js`] (#app_arduino_potenciometro_js)
+
+
+
+</details>
+
  
 <details>
 <summary>escrevendo na serial com botão interativo p5.js e Arduino</summary>
