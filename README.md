@@ -6,12 +6,14 @@
 
 <details>
 <summary>P5.js</summary>
+ 
 * [`conexão com arduino`](#conexaoArduino)
+
 </details>
 
 # conexaoArduino
 
-- Leia um valor da porta serial 
+- Leia um valor da porta serial COM7
 ```js
 let serial;
 let sensor;
