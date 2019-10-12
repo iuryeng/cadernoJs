@@ -35,7 +35,7 @@
 
 </details>
 
-# 📜introdução
+### 📜introdução
 > antes de tudo...
 
 - baixe : https://github.com/p5-serial/p5.serialcontrol/releases
@@ -46,7 +46,7 @@
 
 <br>[⬆ volte ao topo](#conteúdo)
 
-# 🎛️funções 
+### 🎛️funções 
 > chame as funções para responder os eventos
 
 - list: retorna a lista de portas.       
@@ -104,7 +104,7 @@ function serialArduino() {
 <br>[⬆ volte ao topo](#conteúdo)
 
 
-#  🔧aplicações
+###  🔧aplicações
  
 > propósito: ler a porta serial   
 > link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/conexao_serial_arduino
