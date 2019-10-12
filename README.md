@@ -9,16 +9,16 @@
 <details>
 <summary>Conexão javascript com P5.js e o Arduino</summary>
  
-* [`introdução:`](#introdução)
-* [`serialEvents:`](#serialEvents)
-* [`exemplos:`](#exemplos)
+* [`introdução`](#introdução)
+* [`serialEvents`](#serialEvents)
+* [`exemplos`](#exemplos)
 
 
 </details>
 
 # exemplos
 
-- Leia um valor da porta serial COM7
+- Leia um valor qualquer da porta serial COM7
 ```js
 let serial;
 let sensor;
@@ -26,7 +26,7 @@ let sensor;
 function setup() {  
  createCanvas(400, 400);
  serial = new p5.SerialPort(); // cria uma nova instancia serial
- serial.open('COM7');
+ serial.open('COM7'); // mude o valor da porta conforme a conexão do porta serial e o arduino
  serial.on('connected', serverConnected);
  serial.on('data', serialArduino);   
 }
