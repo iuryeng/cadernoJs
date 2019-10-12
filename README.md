@@ -48,6 +48,7 @@
 # exemplos
 
 - Leia um valor qualquer da porta serial COM7
+> caminho alternativo: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/conexao_serial_arduino
 
 ![](gif_sensor.gif)
 ```js
@@ -65,6 +66,8 @@ function setup() {
 function serialArduino() {
  sensor = Number(serial.read());
 }
+
+
 
 function serverConnected() {
  print("Connected to Server");
