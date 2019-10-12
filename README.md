@@ -49,7 +49,7 @@
 
 
 > link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/conexao_serial_arduino
-- propósito: Leia um valor qualquer da porta serial COM7
+- propósito: ler o que chega na porta serial COM7
 
 ![](gif_sensor.gif)
 
