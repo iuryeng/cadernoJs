@@ -1,1 +1,0 @@
-![](gif_sensor.gif)
