@@ -19,7 +19,7 @@
 <summary>p5.js e Arduino</summary>
  
 * [`introdução`](#introdução)
-* [`serialEvents`](#serialEvents)
+* [`funções`](#serialEvents)
 * [`aplicações`](#aplicações)
 
 
@@ -44,7 +44,7 @@
 - escreva no header no arquivo index.html: <script src="p5.serialport.js"></script>
 - você pode rodar seu scketch aqui : https://editor.p5js.org/
 
-# serialEvents
+# funções 
 > chame as funções para responder os eventos:
 
 list – retorna a lista de portas.
@@ -57,15 +57,15 @@ error – algum erro ocorreu.
 > exemplo de chamada de funções 
 ```js
 function setup() {
-  serial = new p5.SerialPort();       // instacia uma nova serial port
-  serial.on('list', printList);  // chama a função list
+  serial = new p5.SerialPort();              // instacia uma nova serial port
+  serial.on('list', printList);             // chama a função list
   serial.on('connected', serverConnected); // chama a função connected
-  serial.on('open', portOpen);        // chama a função open
-  serial.on('data', serialArduino);     // recolhe dados a partir de eventos na serial
-  serial.on('error', serialError);    // chama a função error
-  serial.on('close', portClose);      // chama a função close 
+  serial.on('open', portOpen);            // chama a função open
+  serial.on('data', serialArduino);      // recolhe dados a partir de eventos na serial
+  serial.on('error', serialError);      // chama a função error
+  serial.on('close', portClose);       // chama a função close 
   serial.list();                      // lista as portas seriais
-  serial.open(portName);              // abre uma porta serial
+  serial.open(portName);             // abre uma porta serial
 }
 ```
 > exemplo de função que retorna um dado serial do arduino
