@@ -1,28 +1,16 @@
 
-## Caderno de Estudos 
+## Caderno de Estudos de Internet das Coisas
 ### Aplicações IoT
 
-### Variavel
+### Java Script 
 
 <details>
 <summary>Veja o conteúdo</summary>
 
-* [`Crie uma variável`](#veriavel)
+* [`conexão com arduino`](#conexaoArduino)
 
 
 </details>
-
-### Array
-
-<details>
-<summary>Veja o conteúdo</summary>
-
-* [`all`](#all)
-
-
-</details>
-
-
 
 ### variável
 
