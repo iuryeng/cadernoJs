@@ -53,7 +53,7 @@
 
 ![](gif_sensor.gif)
 
->algorítimo
+>algorítimo JavaScript
 ```js
 let serial;
 let sensor;
