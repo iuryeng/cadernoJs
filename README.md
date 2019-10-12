@@ -9,11 +9,14 @@
 <details>
 <summary>Conexão javascript com P5.js e o Arduino</summary>
  
-* [`Passo1:`](#conexaoArduino)
+* [`introdução:`](#introdução)
+* [`serialEvents:`](#serialEvents)
+* [`exemplos:`](#exemplos)
+
 
 </details>
 
-# conexaoArduino
+# exemplos
 
 - Leia um valor da porta serial COM7
 ```js
