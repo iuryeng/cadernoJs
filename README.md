@@ -21,7 +21,7 @@
 <details>
 <summary>lendo valor de sensor pela porta serial com p5.js e arduino</summary>
  
-* [`aplicações`](#aplicações)
+* [`app`](#app_arduino_serial)
 
 </details>
  
@@ -102,7 +102,7 @@ function serialArduino() {
 <br>[⬆ volte ao topo](#conteúdo)
 
 
-### 🔧aplicações
+### 🔧app_arduino_serial
  
 > propósito: ler a porta serial   
 > link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/conexao_serial_arduino
