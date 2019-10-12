@@ -18,9 +18,9 @@
 <details>
 <summary>p5.js e Arduino</summary>
  
-* [`introdução`](#introdução)
-* [`funções`](#funções)
-* [`aplicações`](#aplicações)
+* [`introdução`](#introdução p5.js e arduino)
+* [`funções`](#funções p5.serialport)
+* [`aplicações`](#aplicações p5.js e arduino)
 
 
 </details>
