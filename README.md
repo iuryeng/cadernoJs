@@ -6,14 +6,6 @@
 
 ### Conteúdo
 
-<details>
-<summary>Processing e Arduino</summary>
- 
-* [`introdução`](#introdução)
-
-
-
-</details>
  
 <details>
 <summary>p5.js e Arduino</summary>
@@ -22,6 +14,7 @@
 * [`funções`](#funções)
 * [`aplicações`](#aplicações)
 
+</details>
 
 ### 📜introdução
 > antes de tudo...
