@@ -170,3 +170,24 @@ void loop() {
 </details>
 
 <br>[⬆ volte ao topo](#conteúdo)
+
+# app_arduino_potenciometro_js
+> propósito: ler valores do potenciomentro pela porta serial e interagir com o webBrowser  
+> link da app: 
+> Algorítimo JavaScript
+> Algorítimo Arduino
+```c
+#define potenciometro A0
+int valorPot;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(potenciometro,INPUT);
+}
+
+void loop() {
+  valorPot = analogRead(potenciometro);
+  Serial.println(valorPot);
+  delay(100); 
+}
+```
