@@ -5,11 +5,7 @@
 
 
 ### Conteúdo
-<details>
-<summary>Conexão ESP8266 e Msql </summary>
-<summary>Conexão PHP e Mysql </summary>
- 
-<\details>
+
  
 <details>
 <summary>Conexão javascript com P5.js e o Arduino</summary>
