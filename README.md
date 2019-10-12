@@ -10,14 +10,20 @@
 
  
 <details>
-<summary>conectando porta serial e webBrowser com p5.js e Arduino</summary>
+<summary>conectando porta serial e webBrowser com p5.js</summary>
  
 * [`introdução`](#introdução)
 * [`funções`](#funções)
-* [`aplicações`](#aplicações)
+
 
 </details>
 
+<details>
+<summary>lendo valor de sensor pela porta serial com p5.js e arduino</summary>
+ 
+* [`aplicações`](#aplicações)
+
+</details>
  
 <details>
 <summary>botão interativo com p5.js e Arduino</summary>
