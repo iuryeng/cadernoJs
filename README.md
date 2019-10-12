@@ -13,7 +13,7 @@
 <summary>conectando porta serial e webBrowser com p5.js</summary>
  
 * [`introdução`](#introdução)
-* [`funções`](#funções)
+* [`funções`](#funcoes)
 
 
 </details>
@@ -44,7 +44,7 @@
 
 <br>[⬆ volte ao topo](#conteúdo)
 
-### 🎛️funções
+### 🎛️funcoes
 > chame as funções para responder os eventos
 
 - list: retorna a lista de portas.       
