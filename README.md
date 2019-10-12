@@ -40,7 +40,7 @@
 
 - baixe : https://github.com/p5-serial/p5.serialcontrol/releases
 - esse app concede a comunicação com as portas seriais disponíveis.
-- baixe a biblioteca p5.js: 
+- baixe a biblioteca p5.js: https://github.com/iuryeng/IoT/blob/master/p5js_app/p5.serialport.js
 - escreva no header no arquivo index.html: <script src="p5.serialport.js"></script>
 - você pode rodar seu scketch aqui : https://editor.p5js.org/
 
