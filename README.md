@@ -47,7 +47,7 @@
 
 # exemplos
 
-> propósito: ler a porta serial 
+> propósito: ler a porta serial   
 > link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/conexao_serial_arduino
 
 
