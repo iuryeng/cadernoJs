@@ -19,7 +19,7 @@
 
  
 <details>
-<summary>ESP8266 e Msql</summary>
+<summary>ESP8266 e MySql</summary>
  
 * [`introdução`](#introdução)
 * [`exemplos`](#exemplos)
