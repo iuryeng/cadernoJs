@@ -10,7 +10,7 @@
 
  
 <details>
-<summary>p5.js e Arduino</summary>
+<summary>conectando porta serial e webBrowser com p5.js e Arduino</summary>
  
 * [`introdução`](#introdução)
 * [`funções`](#funções)
