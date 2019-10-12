@@ -83,6 +83,20 @@ function draw() {
   text("Valor do sensor:" + sensor, 30, 40);
 }
 ```
+> algorítimo Arduino
+```c
+int  sensor=1;
+void setup() {
+ Serial.begin(9600); // initialize serial communications
+}
+ 
+void loop() {
+
+ Serial.print(sensor); 
+ sensor=sensor+1;
+ delay(1000);                                            
+}
+```
 </details>
 
 <br>[⬆ volte para o topo](#conteúdo)
