@@ -7,7 +7,7 @@
 ### Conteúdo
 
 <details>
-<summary>Conectando a porta serial com aplicações javascript com P5.js e o Arduino</summary>
+<summary>Conexão javascript com P5.js e o Arduino</summary>
  
 * [`Passo1:`](#conexaoArduino)
 
