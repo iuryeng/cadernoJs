@@ -1,17 +1,47 @@
-# IoT
-Reúne projetos de internet das coisas
 
-Passos para implementar uma aplicação em IoT baseada en requisições de um SGDB 
-Entendento arquitetura cliente servidor
-1- https://www.apachefriends.org/pt_br/index.html
-2- ligar os serviços apache, mysql e testar no browser com : localhost (pasta xampp/htdocs)
-3 -se quiser testar com outros dispositivos web , acessar o cmd : ipconfig e achar o ipv4 da máquina
-4- Acesse o phpmyadmin em : localhost/phpmyadmin
+## Caderno de Estudos 
+### Aplicações IoT
 
-Entendendo a lógica do software
-1- construção da página index.php
-2- conexao.php -  ponte entre a interface e os dados
-3- salvar.php 
+### Variavel
 
-Entendendo o back-end de hardware
-1- enviar via metodo get por string no formato : /nodemcu/salvar.php?sensor1=1&sensor2=2&sensor3=3
+<details>
+<summary>Veja o conteúdo</summary>
+
+* [`Crie uma variável`](#veriavel)
+
+
+</details>
+
+### Array
+
+<details>
+<summary>Veja o conteúdo</summary>
+
+* [`all`](#all)
+
+
+</details>
+
+
+
+### variável
+
+
+- Crie uma variável do tipo inteiro chamada `n` 
+- Atribua a ela o valor 10, com o nome `n`  use `int n` 
+
+```c
+int n = 10; 
+```c
+
+
+<details>
+<summary>Examplos</summary>
+
+```js
+const firstTwoMax = ary(Math.max, 2);
+[[2, 6, 'a'], [6, 4, 8], [10]].map(x => firstTwoMax(...x)); // [6, 6, 10]
+```
+</details>
+
+<br>[⬆ Back to top](#contents)
