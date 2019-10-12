@@ -28,7 +28,7 @@
 <details>
 <summary>Potenciometro e webBrowser com p5.js e Arduino</summary>
  
-* [`app_arduino_potenciometro_js`] (#app_arduino_potenciometro_js)
+* [`app_arduino_potenciometro_js`](#app_arduino_potenciometro_js)
 
 
 
