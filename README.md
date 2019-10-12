@@ -85,8 +85,11 @@ function draw() {
 ```
 > algorítimo Arduino
 ```c
+
 int  sensor=1;
+
 void setup() {
+
  Serial.begin(9600); // initialize serial communications
 }
  
