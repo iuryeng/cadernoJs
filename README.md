@@ -21,7 +21,7 @@
 <details>
 <summary>lendo valor de sensor pela porta serial com p5.js e arduino</summary>
  
-* [`app`](#app_arduino_serial)
+* [`app_arduino_serial`](#app_arduino_serial)
 
 </details>
  
