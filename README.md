@@ -87,12 +87,12 @@ function setup() {
   serial = new p5.SerialPort();              // instacia uma nova serial port
   serial.on('list', printList);             // chama a função list
   serial.on('connected', conexaoServidor); // chama a função connected
-  serial.on('open', abrirPorta);            // chama a função open
+  serial.on('open', abrirPorta);          // chama a função open
   serial.on('data', serialArduino);      // recolhe dados a partir de eventos na serial
-  serial.on('error', erroSerial);      // chama a função error
-  serial.on('close', fecharPorta);       // chama a função close 
+  serial.on('error', erroSerial);       // chama a função error
+  serial.on('close', fecharPorta);     // chama a função close 
   serial.list();                      // lista as portas seriais
-  serial.open(portaSerial);             // abre uma porta serial
+  serial.open(portaSerial);          // abre uma porta serial
 }
 ```
 > exemplo de função que retorna um dado serial do arduino
