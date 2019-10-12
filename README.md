@@ -54,18 +54,43 @@
 - data – dados que chegam na porta serial
 - error – algum erro ocorreu.
 
+```js
+> construção de funções
+
+function conexaoServidor() {
+  console.log('servidor conectado');
+}
+ 
+function abrirPorta() {
+  console.log('A porta serial está aberta.')
+}
+ 
+function serialArduino() {
+ // leitura de valores do arduino
+}
+ 
+function erroSerial(erro) {
+  console.log('ocorreu um erro. ' + erro);
+}
+ 
+function fecharPorta() {
+  console.log('A porta serial está fechada.');
+}
+
+```
+
 > exemplo de chamada de funções 
 ```js
 function setup() {
   serial = new p5.SerialPort();              // instacia uma nova serial port
   serial.on('list', printList);             // chama a função list
-  serial.on('connected', serverConnected); // chama a função connected
-  serial.on('open', portOpen);            // chama a função open
+  serial.on('connected', conexaoServidor); // chama a função connected
+  serial.on('open', abrirPorta);            // chama a função open
   serial.on('data', serialArduino);      // recolhe dados a partir de eventos na serial
-  serial.on('error', serialError);      // chama a função error
-  serial.on('close', portClose);       // chama a função close 
+  serial.on('error', erroSerial);      // chama a função error
+  serial.on('close', fecharPorta);       // chama a função close 
   serial.list();                      // lista as portas seriais
-  serial.open(portName);             // abre uma porta serial
+  serial.open(portaSerial);             // abre uma porta serial
 }
 ```
 > exemplo de função que retorna um dado serial do arduino
