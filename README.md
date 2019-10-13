@@ -208,8 +208,8 @@ function draw() {
   textSize(20);
   fill(300);
   text("Valor do potenciomentro:" + sensor, 30, 40);
-  let c = color('red');
-  fill(c); // Use 'c' as fill color
+  let cor = color('red');
+  fill(cor); 
   stroke(300)
   rect( 10, 100, sensor, 60);
 }
