@@ -1,3 +1,9 @@
+//===============================================
+//Interação com potenciometro e web browser
+//Autor: Iury Anderson Fernandes Coelho
+//Revisado em: 12/10/2019
+//===============================================
+
 #define potenciometro A0
 int valorPot;
 int mapPot;
