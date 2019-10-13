@@ -178,6 +178,8 @@ void loop() {
 
 > Algorítimo JavaScript
 
+![](gif_pot.gif)
+
 > Algorítimo Arduino
 ```c
 #define potenciometro A0
