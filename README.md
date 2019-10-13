@@ -178,6 +178,7 @@ void loop() {
 
 > Algorítimo JavaScript
 
+
 ![](gif_pot.gif)
 
 > Algorítimo Arduino
