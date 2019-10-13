@@ -129,7 +129,7 @@ function setup() {
  createCanvas(400, 400);
  serial = new p5.SerialPort(); // cria uma nova instancia serial
  serial.open('COM7'); // mude o valor da porta conforme a conexão do porta serial e o arduino
- serial.on('connected', serverConnected);
+ serial.on('connected', conexaoServidor);
  serial.on('data', serialArduino);   
 }
 
@@ -139,8 +139,8 @@ function serialArduino() {
 
 
 
-function serverConnected() {
- print("Connected to Server");
+function conexaoServidor() {
+ print("Servidor conectado");
 }
 
 function draw() {
@@ -187,7 +187,7 @@ function setup() {
  createCanvas(700, 400);
  serial = new p5.SerialPort(); 
  serial.open('COM7');
- serial.on('connected', serverConnected);
+ serial.on('connected', conexaoServidor);
  serial.on('data', serialArduino);   
 }
 
@@ -199,8 +199,8 @@ function serialArduino() {
   }
 }
 
-function serverConnected() {
- print("Connected to Server");
+function conexaoServidor() {
+ print("Servidor conectado");
 }
 
 function draw() {
