@@ -174,7 +174,7 @@ void loop() {
 # app_arduino_potenciometro_js
 > propósito: ler valores do potenciomentro pela porta serial e interagir com o webBrowser  
 
-> link da app: 
+> link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/app_arduino_potenciometro_js
 
 > Algorítimo JavaScript
 
