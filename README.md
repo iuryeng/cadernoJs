@@ -212,7 +212,7 @@ void loop() {
 
 <br>[⬆ volte ao topo](#conteúdo)
 
-# app_arduino_potenciometro_js
+# 🔧app_arduino_potenciometro_js
 > propósito: ler valores do potenciomentro pela porta serial e interagir com o webBrowser  
 
 > link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/app_arduino_potenciometro_js
@@ -314,7 +314,7 @@ function draw() {
 
 ```
 
-# interface_teclado_numerico
+# 🔧interface_teclado_numerico
 > propósito: desenhar interface de um teclado numerico
 
 > link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/interface_teclado_numerico
