@@ -9,7 +9,7 @@
 ### Conteúdo
 
 <details>
-<summary>interface com p5.js</summary>
+<summary>desenhando com p5.js</summary>
  
 * [`desenhado_botoes`](#interface_botoes)
 * [`desenhado_teclado_numerico`](#interface_teclado_numerico)
