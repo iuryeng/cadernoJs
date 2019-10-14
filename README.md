@@ -5,20 +5,18 @@
 
 > Autor: Iury Coelho.
 
-
-### Conteúdo
-
+### Referencias p5.js
 <details>
-<summary>movimento com p5.js</summary>
- 
-* [`dinamica`](#dinamica)
-
-
-
+<summary>movimento</summary> 
+ * [`dinamica`](#dinamica)
 </details>
 
+
+### Códigos
+
+
 <details>
-<summary>desenho com p5.js</summary>
+<summary>Interface com p5.js</summary>
  
 * [`desenhado_botoes`](#interface_botoes)
 * [`desenhado_teclado_numerico`](#interface_teclado_numerico)
