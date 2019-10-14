@@ -1,1 +1,0 @@
-![](interface_botoes.png)
