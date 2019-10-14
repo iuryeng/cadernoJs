@@ -20,6 +20,7 @@
  
 * [`createInput`](#createInput)
 * [`createButton`](#createButton`)
+* [`createSlider`](#createSlider`)
 
 
 </details>
