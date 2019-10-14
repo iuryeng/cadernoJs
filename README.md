@@ -233,7 +233,7 @@ void loop() {
 }
 ```
 
-# desenhado_interface_botoes
+# interface_com_botoes
 > propósito: desenhar interface com dois botões 
 
 > link da app: 
