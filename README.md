@@ -21,6 +21,7 @@
 * [`createInput`](#createInput)
 * [`createButton`](#createButton`)
 * [`createSlider`](#createSlider`)
+* [`translate`](#translate`)
 
 
 </details>
