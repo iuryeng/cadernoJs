@@ -8,7 +8,7 @@ let serial;
 let sensor;
 
 function setup() {  
- createCanvas(400, 400);
+ createCanvas(500, 500);
  serial = new p5.SerialPort(); // cria uma nova instancia serial
  serial.open('COM7');
  serial.on('connected', conexaoServidor);
