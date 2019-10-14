@@ -11,6 +11,7 @@
  
 * [`createCanvas`](#createCanvas)
 * [`createGraphics`](#createGraphics`)
+* [`translate`](#translate`)
 
 
 </details>
@@ -21,7 +22,7 @@
 * [`createInput`](#createInput)
 * [`createButton`](#createButton`)
 * [`createSlider`](#createSlider`)
-* [`translate`](#translate`)
+
 
 
 </details>
