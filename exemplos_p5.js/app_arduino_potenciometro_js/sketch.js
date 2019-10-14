@@ -31,7 +31,7 @@ function draw() {
   background(0);
   textSize(20);
   fill(300);
-  text("Valor do potenciomentro:" + sensor, 30, 40);
+  text("Valor do potenciômentro:" + sensor, 30, 40);
   let c = color('red');
   fill(c); 
   stroke(300)
