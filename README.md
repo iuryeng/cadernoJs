@@ -235,6 +235,13 @@ void loop() {
 ```
 
 # desenhado_interface_botoes
+> propósito: desenhar interface com dois botões 
+
+> link da app: 
+
+> Algorítimo JavaScript
+
+![](interface_botao.png)
 
 ```js
 
