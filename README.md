@@ -7,8 +7,9 @@
 
 ### Referencias p5.js
 <details>
-<summary>movimento</summary> 
- * [`dinamica`](#dinamica)
+<summary>desenho</summary> 
+* [`createCanvas`](#createCanvas)
+ 
 </details>
 
 
@@ -16,7 +17,7 @@
 
 
 <details>
-<summary>Interface com p5.js</summary>
+<summary>interface com p5.js</summary>
  
 * [`desenhado_botoes`](#interface_botoes)
 * [`desenhado_teclado_numerico`](#interface_teclado_numerico)
