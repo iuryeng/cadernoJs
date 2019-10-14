@@ -8,6 +8,15 @@
 
 ### Conteúdo
 
+<details>
+<summary>interface com p5.js</summary>
+ 
+* [`desenhado_botoes`](#interface_botoes)
+* [`desenhado_teclado_numerico`](#interface_teclado_numerico)
+
+
+</details>
+
  
 <details>
 <summary>conectando porta serial e webBrowser com p5.js</summary>
@@ -38,7 +47,7 @@
 <details>
 <summary>escrevendo na serial com botão interativo p5.js e Arduino</summary>
  
-* [`desenhado_interface_botoes`](#interface_com_botoes)
+
 
 </details>
 
@@ -233,7 +242,7 @@ void loop() {
 }
 ```
 
-# interface_com_botoes
+# interface_botoes
 > propósito: desenhar interface com dois botões 
 
 > link da app: 
@@ -268,6 +277,69 @@ function draw() {
    fill(color='red');   
    text('ON', 290, 230);
    text('OFF', 285, 360);
+}
+
+```
+
+# interface_teclado_numerico
+> propósito: desenhar interface de um teclado numerico
+
+> link da app: 
+
+> Algorítimo JavaScript
+
+```js
+
+var tamanhoFonte =30;
+
+var numbotao1;
+function setup() { 
+  
+  local= createCanvas(600, 600);
+
+  textSize(tamanhoFonte);
+  textStyle(BOLD);  
+}
+
+function draw() { 
+   
+  background(50);
+  colorMode(HSB);
+  strokeWeight(10); 
+  
+  // linhas horizontais
+   local.line(50, 30,  450, 30);
+   local.line(50, 100, 450, 100);
+   line(50, 170, 450, 170);
+   line(50, 240, 450, 240);
+   line(50, 310, 450, 310);
+  
+  //linhas verticais
+   line(50, 310, 50, 30); 
+   line(150, 30, 150, 310);
+   line(250, 30, 250, 310);  
+   line(350, 310, 350, 30); 
+   line(450, 30, 450, 310);   
+  
+  //posicao dos botoes   
+   fill(220);  
+   text('1',  90, 70); 
+   text('2',  190,70); 
+   text('3',  290,70);
+   text('4',  390,70);
+   text('5',  90, 150);
+   text('6',  190,150);
+   text('7',  290,150);
+   text('8',  390,150);
+   text('9',  90, 220);
+   text('10', 180, 220);
+   text('11', 280, 220);
+   text('12', 380, 220);
+   text('13', 80, 290);
+   text('14', 180, 290);
+   text('15', 280, 290);
+   text('16', 380, 290);    
+  
 }
 
 ```
