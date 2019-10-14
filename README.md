@@ -27,7 +27,8 @@
 
 <details>
 <summary>figuras 2d</summary>
- 
+
+* [`rect`](#rect)
 * [`rect`](#rect)
 * [`circle`](#cicle`)
 * [`ellipse`](#ellipse`)
