@@ -5,7 +5,7 @@
 
 > Autor: Iury Coelho.
 
-### Referencias p5.js
+### Referências p5.js
 <details>
 <summary>desenho</summary>
  
