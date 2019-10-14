@@ -37,9 +37,8 @@
  
 <details>
 <summary>escrevendo na serial com botão interativo p5.js e Arduino</summary>
-* [`desenhado_interface_botoes`](#desenhado_interface_botoes) 
  
-* [`app_botao_arduino`](#)
+* [`desenhado_interface_botoes`](#interface_com_botoes)
 
 </details>
 
