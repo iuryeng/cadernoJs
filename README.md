@@ -245,7 +245,7 @@ void loop() {
 # interface_botoes
 > propósito: desenhar interface com dois botões 
 
-> link da app: 
+> link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/interface_botoes
 
 > Algorítimo JavaScript
 
@@ -284,7 +284,7 @@ function draw() {
 # interface_teclado_numerico
 > propósito: desenhar interface de um teclado numerico
 
-> link da app: 
+> link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/interface_teclado_numerico
 
 > Algorítimo JavaScript
 
