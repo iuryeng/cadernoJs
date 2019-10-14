@@ -10,6 +10,16 @@
 <summary>desenho</summary>
  
 * [`createCanvas`](#createCanvas)
+* [`createGraphics`](#createGraphics`)
+
+
+</details>
+
+<details>
+<summary>entrada</summary>
+ 
+* [`createInput`](#createInput)
+* [`createButton`](#createButton`)
 
 
 </details>
