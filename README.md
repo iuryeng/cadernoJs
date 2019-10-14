@@ -24,6 +24,16 @@
 
 </details>
 
+<details>
+<summary>figuras 2d</summary>
+ 
+* [`rect`](#rect)
+* [`circle`](#cicle`)
+* [`ellipse`](#ellipse`)
+
+
+</details>
+
 
 ### Códigos
 
