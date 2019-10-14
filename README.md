@@ -1,6 +1,4 @@
-<div markdown="1">
-   My text with **markdown** syntax
-</div>
+
 # 📚Caderno de Estudos de Internet das Coisas 
 
 > Este documento reúne algorítimos e aplicações de internet das coisas.  
