@@ -323,6 +323,11 @@ function draw() {
 
 ```js
 
+//===============================================
+//Interface teclado numerico
+//Autor: Iury Anderson Fernandes Coelho
+//Revisado em: 13/10/2019
+//===============================================
 var tamanhoFonte =30;
 
 var numbotao1;
@@ -339,10 +344,11 @@ function draw() {
   background(50);
   colorMode(HSB);
   strokeWeight(10); 
+  translate(50,150);
   
   // linhas horizontais
-   local.line(50, 30,  450, 30);
-   local.line(50, 100, 450, 100);
+   line(50, 30,  450, 30);
+   line(50, 100, 450, 100);
    line(50, 170, 450, 170);
    line(50, 240, 450, 240);
    line(50, 310, 450, 310);
