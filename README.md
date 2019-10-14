@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary>potenciometro webBrowser com p5.js e Arduino</summary>
+<summary>potenciometro webBrowser com p5.js e arduino</summary>
  
 * [`app_arduino_potenciometro_js`](#app_arduino_potenciometro_js)
 
@@ -45,7 +45,7 @@
 
  
 <details>
-<summary>escrevendo na serial com botão interativo p5.js e Arduino</summary>
+<summary>escrevendo na porta serial com botão interativo p5.js e arduino</summary>
  
 
 
