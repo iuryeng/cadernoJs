@@ -287,6 +287,7 @@ function draw() {
 > link da app: 
 
 > Algorítimo JavaScript
+
 ![](interface_teclado_numerico.png)
 
 ```js
