@@ -1,3 +1,10 @@
+//===============================================
+//Interface com botões on e off
+//Autor: Iury Anderson Fernandes Coelho
+//Revisado em: 13/10/2019
+//===============================================
+
+
 tamanhoFonte = 15;
 // interface de dois botões 
 function setup() {
