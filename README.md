@@ -1,7 +1,7 @@
 
-# 📚Caderno de Estudos de Internet das Coisas 
+# 📚Caderno de Estudos de JavaScript 
 
-> Este documento reúne algorítimos e aplicações em javascript e arduino.  
+> Este documento reúne algorítimos e aplicações em javascript.  
 
 > Autor: Iury Coelho.
 
