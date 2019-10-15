@@ -46,7 +46,7 @@
  
 * [`desenhado_botoes`](#interface_botoes)
 * [`desenhado_teclado_numerico`](#interface_teclado_numerico)
-* [`cores slider e quadrado`](#color_slider_quadrado)
+* [`cores_slider_quadrado`](#color_slider_quadrado)
 
 
 </details>
