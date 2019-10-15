@@ -325,11 +325,6 @@ function draw() {
 
 ```js
 
-//===============================================
-//Interface teclado numerico
-//Autor: Iury Anderson Fernandes Coelho
-//Revisado em: 13/10/2019
-//===============================================
 var tamanhoFonte =30;
 
 var numbotao1;
