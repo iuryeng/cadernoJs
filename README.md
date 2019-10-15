@@ -383,7 +383,7 @@ function draw() {
 
 #color_slider_quadrado
 
-> propósito: desenhar interface de um teclado numerico
+> propósito: desenhar quadrado com interação de cor e slider
 
 > link da app: 
 
