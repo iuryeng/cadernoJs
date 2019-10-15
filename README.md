@@ -389,6 +389,8 @@ function draw() {
 
 > Algorítimo JavaScript
 
+![](color_slider_quadrado.png)
+
 ```js
 var slider;
 var context;
