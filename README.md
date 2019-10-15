@@ -1,5 +1,5 @@
 
-# 📚Caderno de Estudos de JavaScript 
+# 📚Caderno de Estudos em JavaScript 
 
 > Este documento reúne algorítimos e aplicações em javascript.  
 
@@ -46,6 +46,7 @@
  
 * [`desenhado_botoes`](#interface_botoes)
 * [`desenhado_teclado_numerico`](#interface_teclado_numerico)
+* [`cores slider e quadrado`](#color_slider_quadrado)
 
 
 </details>
@@ -376,6 +377,59 @@ function draw() {
    text('15', 280, 290);
    text('16', 380, 290);    
   
+}
+
+```
+
+#color_slider_quadrado
+
+> propósito: desenhar interface de um teclado numerico
+
+> link da app: 
+
+> Algorítimo JavaScript
+
+```js
+var slider;
+var context;
+var fontSize = 15;
+var sliderFront;
+var sliderBack ;
+var sliderGround;
+
+
+function setup() {
+  createCanvas(400, 400);
+  sliderFront = createSlider(0,250,333);
+  sliderBack = createSlider(0,200,250);
+  sliderGround = createSlider(0,200,250);
+  backSquare = createGraphics(400,400);
+  frontSquare = createGraphics(400,400);
+  textSize(fontSize);
+  
+}
+
+function draw() {
+  background(sliderGround.value(), 255,140);
+  
+  backSquare.fill(sliderBack.value(), 150,240);
+  backSquare.rect(50,70,275,250, 20);  
+  image(backSquare, 10,10);// rect back
+  
+  frontSquare.fill(120,110,sliderFront.value());
+  frontSquare.rect(50,90,275,250, 20); // rect front
+  image(frontSquare, 1,20);// rect back
+
+  
+  sliderFront.position(185,170);
+  sliderBack.position(185,195);
+  sliderGround.position(185,220);
+  
+  text("color frontSquare:", 60,185);
+  text("color backSquare:", 60, 210);
+  text("color ground:", 60, 235);
+  text("backgroud value:" + sliderGround.value(), 60, 330);
+ 
 }
 
 ```
