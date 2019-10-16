@@ -1,5 +1,10 @@
+//===============================================
+//Quadrado interativo com slider
+//Autor: Iury Anderson Fernandes Coelho
+//Revisado em: 13/10/2019
+//===============================================
+
 var slider;
-var context;
 var fontSize = 15;
 var sliderFront;
 var sliderBack ;
