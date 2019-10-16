@@ -386,6 +386,8 @@ function draw() {
 
 > link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/color_slider_quadrado
 
+> link codepen: https://codepen.io/iuryeng/pen/XWWKKjp
+
 > Algorítimo JavaScript
 
 ![](color_slider_quadrado.png)
