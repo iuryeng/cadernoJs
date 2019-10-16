@@ -381,7 +381,7 @@ function draw() {
 
 ```
 
-#color_slider_quadrado
+# color_slider_quadrado
 
 > propósito: desenhar quadrado com interação de cor e slider
 
