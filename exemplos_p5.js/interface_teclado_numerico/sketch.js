@@ -1,8 +1,4 @@
-//===============================================
-//Interface teclado numerico
-//Autor: Iury Anderson Fernandes Coelho
-//Revisado em: 13/10/2019
-//===============================================
+
 //===============================================
 //Interface teclado numerico
 //Autor: Iury Anderson Fernandes Coelho
