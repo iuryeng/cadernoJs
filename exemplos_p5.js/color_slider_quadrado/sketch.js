@@ -1,7 +1,7 @@
 //===============================================
 //Quadrado interativo com slider
 //Autor: Iury Anderson Fernandes Coelho
-//Revisado em: 13/10/2019
+//Revisado em: 15/10/2019
 //===============================================
 
 var slider;
