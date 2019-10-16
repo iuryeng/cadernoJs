@@ -385,7 +385,7 @@ function draw() {
 
 > propósito: desenhar quadrado com interação de cor e slider
 
-> link da app: 
+> link da app: https://github.com/iuryeng/IoT/tree/master/exemplos_p5.js/color_slider_quadrado
 
 > Algorítimo JavaScript
 
