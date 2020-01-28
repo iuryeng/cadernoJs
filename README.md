@@ -9,6 +9,7 @@
 
 
 Interface serial com JS , potenciometro e arduino: https://youtu.be/i7ajS6LWKk4
+Controle de frequencia com interface Js, potenciometro e arduino: https://youtu.be/1qVrPDQGynU
 
 ### Códigos
 
