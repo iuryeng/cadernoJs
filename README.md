@@ -8,17 +8,7 @@
 ### Projeto p5.js e Arduino
 
 
-<details>
-<summary>figuras 2d</summary>
-
-* [`rect`](#rect)
-* [`rect`](#rect)
-* [`circle`](#cicle`)
-* [`ellipse`](#ellipse`)
-
-
-</details>
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/i7ajS6LWKk4)
 
 ### Códigos
 
