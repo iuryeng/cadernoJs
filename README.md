@@ -8,7 +8,7 @@
 ### Projeto p5.js e Arduino
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/i7ajS6LWKk4)
+[![Watch the video](https://youtu.be/i7ajS6LWKk4)]
 
 ### Códigos
 
