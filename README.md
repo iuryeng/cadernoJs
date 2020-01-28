@@ -8,7 +8,7 @@
 ### Projeto p5.js e Arduino
 
 
-[![Watch the video](https://youtu.be/i7ajS6LWKk4)]
+Interface serial com JS , potenciometro e arduino: https://youtu.be/i7ajS6LWKk4
 
 ### Códigos
 
