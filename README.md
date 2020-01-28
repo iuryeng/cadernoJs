@@ -5,27 +5,8 @@
 
 > Autor: Iury Coelho.
 
-### Referências p5.js
-<details>
-<summary>desenho</summary>
- 
-* [`createCanvas`](#createCanvas)
-* [`createGraphics`](#createGraphics`)
-* [`translate`](#translate`)
+### Projeto p5.js e Arduino
 
-
-</details>
-
-<details>
-<summary>entrada</summary>
- 
-* [`createInput`](#createInput)
-* [`createButton`](#createButton`)
-* [`createSlider`](#createSlider`)
-
-
-
-</details>
 
 <details>
 <summary>figuras 2d</summary>
